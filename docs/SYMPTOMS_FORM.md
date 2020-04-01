@@ -13,7 +13,7 @@
 ## I RESPONSIBLY DECLARE THAT as by (date)*
 * I have fever
 * I have cough and breathing issues
-* I have fever, cough, annd breathing issues
+* I have fever, cough, and breathing issues
 (Choose one)
 
 ## CONFINEMENT PREMISES DATA
